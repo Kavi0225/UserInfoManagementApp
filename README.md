@@ -28,7 +28,7 @@ This is a simple user management system that allows you to add, view, list, upda
 
 ## Usage
 
-Run the Python script `user_management.py` and follow the on-screen instructions to manage users.
+Run the Python script `main.py` and follow the on-screen instructions to manage users.
 
 ```bash
-python user_management.py
+python main.py
